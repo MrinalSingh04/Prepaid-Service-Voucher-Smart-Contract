@@ -6,7 +6,7 @@ This smart contract lets customers **buy service vouchers on-chain** (💳) for 
 
 When a voucher is purchased:
 
-1. 💳 Buyer pays the **exact price** into the smart contract. 
+1. 💳 Buyer pays the **exact price** into the smart contract.  
 2. 🎫 Voucher is **recorded on-chain** with a **validity period** ⏳.  
 3. ✅ Service provider redeems the voucher only **after delivering the service**.  
 4. 💸 Payment is released to the provider upon redemption.
