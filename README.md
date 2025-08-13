@@ -10,7 +10,7 @@ When a voucher is purchased:
 2. 🎫 Voucher is **recorded on-chain** with a **validity period** ⏳.
 3. ✅ Service provider redeems the voucher only **after delivering the service**.
 4. 💸 Payment is released to the provider upon redemption.
-5. 🔁 If the voucher expires without redemption, the **buyer can self-refund**.
+5. 🔁 If the voucher expires without redemption, the **buyer can self-refund**. 
 
 ---
 
