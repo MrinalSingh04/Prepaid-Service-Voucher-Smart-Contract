@@ -16,7 +16,7 @@ When a voucher is purchased:
 
 ## 🎯 Why
 
-### 🔒 Fraud Prevention
+### 🔒 Fraud Prevention 
 
 - ❌ No early provider withdrawals before service is delivered.
 - ✅ Funds locked in escrow until **redemption**.
